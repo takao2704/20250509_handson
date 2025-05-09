@@ -5,7 +5,7 @@ SORACOM の IoT SIM を利用するには「SORACOM アカウントの作成」�
 
 以下、の手順を行ってください
 
-[STEP 1: SORACOM アカウント (オペレーター) を作成する](https://soracom.github.io/iot-recipes/flux-soracam-handson-sharing-pattern1/#0:~:text=STEP%201%3A%20SORACOM%20%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%20(%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC)%20%E3%82%92%E4%BD%9C%E6%88%90%E3%81%99%E3%82%8B)
+[STEP 1: SORACOM アカウント (オペレーター) を作成する](https://users.soracom.io/ja-jp/guides/getting-started/create-account/)
 ※今回のハンズオンを行うだけであれば、支払い登録は不要で実施できます。
 
 ## 2. ソラカメをセットアップする
