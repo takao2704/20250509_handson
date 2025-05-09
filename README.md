@@ -23,8 +23,7 @@ https://3ujmwrqppg6y7rdcw5oytihdt40csvsn.lambda-url.us-west-2.on.aws/form
 こちらに必要項目を入力します。
 
 デバイスIDは
-時計・温湿度計（文字読み）： 7CDDE9028E24
-会場風景：7CDDE902DBC3
+会場風景：7CDDE9028E24
 
 ![alt text](image-1.png)
 
