@@ -49,3 +49,19 @@ https://console.soracom.io/sora_cam/shares
 ## 3. ハンズオン本編
 こちらの手順で進めていきましょう！
 https://zenn.dev/takao2704/articles/soracamimagetos3toawsservices
+
+## 4. 後片付け
+
+### must
+AWS
+- EventBridge (Lambdaの駆動とS3への画像保存のトリガー)
+- S3バケット（フルアクセスを許可しているので）
+
+
+### optional
+AWS
+- Lambda関数
+- IAMロール・ポリシー
+- Amplifyに保存した
+SORACOM
+- SAMユーザー
